@@ -1,7 +1,7 @@
 
 from EnigmaModel import EnigmaModel
 from EnigmaConstants import ALPHABET
-from encrypt import encrypt # The encrypt funtion is defined in encrypt.py. It will exist when repository is merged.
+from Encrypt import encrypt # The encrypt funtion is defined in encrypt.py. It will exist when repository is merged.
 
 def find_rotors(message:str, cipher:str) -> str:
     for a in ALPHABET:
