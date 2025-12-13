@@ -13,5 +13,4 @@ def find_rotors(message:str, cipher:str) -> str:
     return "Not found"
 
 
-def encrypt(rotors, message):
-    return "DUMMY"
+
