@@ -1,0 +1,191 @@
+commit a8fb443d23c12502b09e59374d22ca493e1ec90c
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:32:50 2025 +0100
+
+    edit
+
+commit 164ec343be94a3cfc842bb036d877548d3a84a11
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:29:13 2025 +0100
+
+    adding report
+
+commit 9eded3fb0f875910e5b3cd2594488eb27ff9cc6d
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:17:35 2025 +0100
+
+    edit
+
+commit 78e87651aa16d252fd22c63d16cd166fb073dcab
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:16:07 2025 +0100
+
+    edit
+
+commit 3923d3a56ab8fdb76a17ee7f62ba923e9c210dc7
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:15:16 2025 +0100
+
+    edit
+
+commit c7ef3f31ef335b44ae85da405602f0cb3efef351
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:14:45 2025 +0100
+
+    edit
+
+commit 235958ae48881e377d6d0af2de6aaa4ea4c82dab
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:08:45 2025 +0100
+
+    edit
+
+commit 9cc160d011d3bc3ac12dcbd213bcced8b5394007
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:07:33 2025 +0100
+
+    edit
+
+commit 2cb127d9bcc1e6885974fec9e776a2b35023f661
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 21:02:30 2025 +0100
+
+    edit
+
+commit 7a83210c26ad8b12d86452d0a282bc2c2db81f9c
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:58:38 2025 +0100
+
+    edit
+
+commit 29c8f9d480a03bf1c7c5fcbc2574a7f5e76f5ce2
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:46:20 2025 +0100
+
+    edit
+
+commit fe129a6553f6286ddba653d58e06e33042246f44
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:44:18 2025 +0100
+
+    edit
+
+commit ac9058b042d63d4d183d602b585fc41738e77641
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:43:08 2025 +0100
+
+    edit
+
+commit bf35d4ae536648e53a5013a75e3255c170100cc1
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:41:47 2025 +0100
+
+    edit
+
+commit 1bd494501ea8a418c3b68d2441cfd214babaf0e4
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:41:19 2025 +0100
+
+    edit
+
+commit 04d099cad83870759540a03320932f4742dfc863
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:36:26 2025 +0100
+
+    rm pycache
+
+commit 66277daabe8261989e3bbed4ea01360db2097b70
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 20:34:04 2025 +0100
+
+    pycache
+
+commit e4d4be402ee36f99fae7306de6398f2a6e875c7f
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 19:09:07 2025 +0100
+
+    editing typo
+
+commit 5f387ae975cf0073f1dcec4afa77a1e1968193eb
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 19:06:46 2025 +0100
+
+    removing clone-file
+
+commit 0ea2bd9d1fe849963491350268c33f2bceadeb83
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 19:03:37 2025 +0100
+
+    Encrypt edit
+
+commit 40c1c206a2c0d3839d13ae30f8e9bff71e13aded
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 18:58:13 2025 +0100
+
+    adding encrypt.py
+
+commit b61236033a2f4ead7e27ce2d3b8eb278c53d64a0
+Author: Suuga25 <suuga25@student.sdu.dk>
+Date:   Sat Dec 13 18:55:56 2025 +0100
+
+    Remove dummy encrypt function from find_rotors.py
+
+commit 3c64e76ef3227e66a643772077ec860622e94536
+Author: Suuga25 <suuga25@student.sdu.dk>
+Date:   Sat Dec 13 18:55:13 2025 +0100
+
+    Add files via upload
+
+commit 5520234dce13aabacd1519dcbc910ab96c75e4b8
+Author: Suweyda Ali Ugas <suuga25@sdu.student.dk>
+Date:   Sat Dec 13 13:47:46 2025 +0100
+
+    remove
+
+commit b278835feb1280fe5349967ba34fd2a6f8f35e48
+Author: Suweyda Ali Ugas <suuga25@sdu.student.dk>
+Date:   Sat Dec 13 13:46:33 2025 +0100
+
+    remove
+
+commit d3de501d8659ff878ee48e78a288117b2ab22181
+Author: Suweyda Ali Ugas <suuga25@sdu.student.dk>
+Date:   Sat Dec 13 13:37:45 2025 +0100
+
+    enigma
+
+commit a90a8e25f0c995c101aef6c7803c54215608696b
+Author: Suweyda Ali Ugas <suuga25@sdu.student.dk>
+Date:   Sat Dec 13 13:32:09 2025 +0100
+
+    test
+
+commit aeaa59900a56cc472f4ba8bd10876b255423a2be
+Author: Suweyda Ali Ugas <suuga25@sdu.student.dk>
+Date:   Sat Dec 13 13:24:05 2025 +0100
+
+    Add test_git.py
+
+commit fd16d40458d96b987463df8516af7d9047b73882
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 12:38:11 2025 +0100
+
+    Remove test3.py
+
+commit 710d3e81f95df0000b59a31342e3d8293ec5291f
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 11:06:50 2025 +0100
+
+    rm
+
+commit c7945a47237d1813805ebc7a11240ca20cb31926
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 10:57:29 2025 +0100
+
+    test
+
+commit cf25fb36ceac222176c5ad0e0c3d1bf15608baf8
+Author: Jakub Šmejkal <jakubsm@users.noreply.github.com>
+Date:   Sat Dec 13 11:16:04 2025 +0100
+
+    test3
