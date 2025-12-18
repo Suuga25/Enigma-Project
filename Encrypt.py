@@ -8,9 +8,9 @@ def encrypt(rotors: str, message: str) -> str: # both rotors and message must be
     model.rotor2.offset = alphabet.index(rotors[1]) # initializes the offset based on the given str "rotors"
     model.rotor3.offset = alphabet.index(rotors[2])
 
-    """This version of encrypt() should work despite the "version" of EnigmaModel.py file,
+    """This version of encrypt() works despite the "version" of EnigmaModel.py file,
     only changes that need to be made is the naming of the rotors, in this case,
-    rotor1, rotor2, rotor3 refer to the leftmost, middle and rightmost rotors respectivelly
+    rotor1, rotor2, rotor3 refer to the leftmost, middle and rightmost rotors respectively
     
     if a different version of EnigmaModel.py is used, the naming needs to be changed
     accordingly to match the rotor names in the EnigmaModel.py file"""
@@ -18,13 +18,13 @@ def encrypt(rotors: str, message: str) -> str: # both rotors and message must be
     result = []
 
     for i in message:
-        model.key_pressed(i)
+        model.key_pressed(i) # simulates clicking on a key
 
         for j in alphabet:
-            if model.is_lamp_on(j):
-                result.append(j)
+            if model.is_lamp_on(j): # checks which lamp is on (= what is the output of a single encryption)
+                result.append(j) # adds the corresponding letter to a list
 
-        model.key_released(i)
+        model.key_released(i) # resets the lamps
 
     return "".join(result)
 
