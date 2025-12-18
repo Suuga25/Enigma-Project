@@ -7,5 +7,5 @@ def find_rotors(message:str, cipher:str) -> str:
             for c in ALPHABET:
                 rotors = a + b + c
                 if encrypt(rotors, message)==cipher: # Checks if output of encrypt() matches the cipher
-                    return rotors
-    return "Not found"
+                    return rotors # If match found return the corresponding rotors
+    return "Not found" # If no match found 
